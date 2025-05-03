@@ -97,7 +97,8 @@ This setup enables automated, reproducible comparison of how much LLAMA-2-7B mem
 
 The outputs of **memorization** and **leakage** evaluations are available at the following Google Drive links. You can directly view the results we have generated:
 
-- [Memorization Outputs](https://drive.google.com/your-memorization-link)
-- [Leakage Outputs](https://drive.google.com/your-leakage-link)
+- [Memorization Outputs RAG](https://drive.google.com/drive/folders/1ACIkhPmfNUJc14We3uPIUMlfeGe9XMsu?usp=drive_link)
+- [Memorization Outputs FineTuned](https://drive.google.com/drive/folders/12ha2YXu10JnKSrNipqSpBIgnSv1Q17CI?usp=drive_link) 
+- [Leakage Outputs](https://drive.google.com/drive/folders/1V-66vdl6drsKAJPXe9L99WAgyEDWYNke?usp=sharing)
 
 ---
