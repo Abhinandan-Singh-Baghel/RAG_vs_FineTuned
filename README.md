@@ -22,7 +22,7 @@ Contains additional scripts for calculating memorization metrics:
 
 ### ✅ Setup Instructions
 
-1. Follow the instructions from the RAG paper to set up LLAMA-2-7B and generate outputs using `.sh` files:
+1. Follow the instructions from the [RAG paper](https://github.com/Abhinandan-Singh-Baghel/RAG-LLM) to set up LLAMA-2-7B and generate outputs using `.sh` files:
    - `chat-target.sh`
    - `enron-target.sh`
    - `wikitext-target.sh`
